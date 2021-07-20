@@ -3,9 +3,8 @@
 [![Yahoo Badge](https://img.shields.io/badge/e--mail-remigiuszzalewski%40yahoo.com-blueviolet)](mailto:remigiuszzalewski@yahoo.com)
 [![Instagram Badge](https://img.shields.io/badge/instagram-fullstackdevgram-green)](https://www.instagram.com/fullstackdevgram/)
 
-I'm Remigiusz Zalewski, 4th year mechatronics engineering student in Naval University of Szczecin and .NET software engineering enthusiast that knows german and english fluently and portuguese/spanish at level around B1.
+I'm Remigiusz Zalewski, Junior Software Engineer at TietoEvry and .NET software engineering enthusiast that knows german and english fluently and portuguese/spanish at level around B1.
 
 - 🔭 I’m currently working on Online Gradebook Application based on ASP .NET Core and Angular.
 - 🌱 I’m currently learning ASP .NET Core and Angular.
-- 👯 I’m looking to contribute to Open Source .NET App.
 - ⚡ Fun fact: I was in Angola, Africa working as electrotechnical officer apprentice on one of offshore ships.
