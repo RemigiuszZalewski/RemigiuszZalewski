@@ -1,12 +1,11 @@
 Hi there! 👋 I'm Remigiusz Zalewski
+I'm a Software Engineer specializing in .NET, Angular, React, and Azure. With years of diverse project experience, I'm passionate about sharing knowledge and helping developers grow.
 
 ## 📫 Connect With Me
 - 🎥 [YouTube](https://www.youtube.com/@RemigiuszZalewski)
 - ✍️ [Medium](https://medium.com/@remigiuszzalewski)
 - 💼 [LinkedIn](https://www.linkedin.com/in/remigiusz-zalewski)
-- 
 
-I'm a Software Engineer specializing in .NET, Angular, React, and Azure. With years of diverse project experience, I'm passionate about sharing knowledge and helping developers grow.
 🚀 What I Offer
 
     In-depth tutorials and full-length courses
