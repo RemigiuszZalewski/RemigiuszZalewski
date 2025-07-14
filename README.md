@@ -2,6 +2,22 @@ Hi there! 👋 I'm Remigiusz Zalewski
 
 I'm a Software Engineer specializing in .NET, Angular, React, and Azure. With years of diverse project experience, I'm passionate about sharing knowledge and helping developers grow.
 
+To get the access to the all source code related to all the videos available on my YouTube channel:
+https://youtube.com/@remigiuszzalewski
+
+you have to become a supporter on my Patreon:
+🤝 Support My Work on Patreon
+👉 [Patreon](https://www.patreon.com/remigiuszzalewski)
+
+YouTube Videos Source Code:
+[https://github.com/RemigiuszZalewski/YoutubeVideos]
+
+Your support enables me to:
+
+    Create more valuable content
+    Dedicate time to providing the best learning experience
+    Continuously improve and expand my offerings
+
 ## 📫 Connect With Me
 - 🎥 [YouTube](https://www.youtube.com/@RemigiuszZalewski)
 - ✍️ [Medium](https://medium.com/@remigiuszzalewski)
@@ -26,14 +42,5 @@ To help developers of all levels succeed in tech:
 
     Beginners: Solid foundation and practical skills
     Experienced: Advanced techniques and industry best practices
-
-🤝 Support My Work on Patreon
-👉 [Patreon](https://www.patreon.com/remigiuszzalewski)
-
-Your support enables me to:
-
-    Create more valuable content
-    Dedicate time to providing the best learning experience
-    Continuously improve and expand my offerings
 
 Let's grow together and build amazing things! 🌟
